@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nons56
-- 👀 I’m interested in ... project management 
+- 👀 I’m interested in ... Project Management/Data analytics 
 - 🌱 I’m currently learning ... data engineering 
 - 💞️ I’m looking to collaborate on ... with mentorship 
 - 📫 How to reach me +2348151514441
